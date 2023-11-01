@@ -44,3 +44,17 @@ export const Small: Story = {
     label: 'Button',
   },
 }
+
+export const Red: Story = {
+  args: {
+    backgroundColor: 'red',
+    label: 'Button',
+  },
+}
+
+export const Purple: Story = {
+  args: {
+    backgroundColor: 'purple',
+    label: 'Button',
+  },
+}
